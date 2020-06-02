@@ -22,3 +22,8 @@ npm run dev
 RUN Start
 
 npm run Start
+
+Project in HEROKU:
+https://kirijaki-task-manager.herokuapp.com/
+
+
